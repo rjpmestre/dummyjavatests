@@ -40,7 +40,6 @@ public enum EncodeEnum {
         return StringUtils.join(str.chars().mapToObj(i -> encodeInt(i, shift)).collect(Collectors.toList()), StringUtils.SPACE);
     }
 
-    //
     private String decodeChar(String s, Integer radix) {
         switch (this) {
             case RAW:
