@@ -71,6 +71,4 @@ public enum EncodeEnum {
     public String decode(String str) {
         return decode(str, Character.MIN_RADIX);
     }
-
-
 }
