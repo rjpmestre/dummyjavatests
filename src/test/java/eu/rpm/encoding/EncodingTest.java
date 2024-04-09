@@ -198,6 +198,5 @@ public class EncodingTest {
                                                 "CXII XCVII CXII XCVII CI CVIII CI CXII CIV XCVII CX CXVI LVIII XXXII LXXXIX CXI XXXII LXIV CXVI CIV CI C CXIV CI LII CIX XCVIII CXI CXVI XXXII CVI CXVII CXV "
                                                                 + "CXVI XXXII CXIV CI XCVII CVIII CV CXXII CI C XXXII LXXIII XXXII CXIX XCVII CXV XXXII XCVII CXII XCVII CXIV CXVI XXXII CXI CII XXXII CXXI CXI CXVII CXIV "
                                                                 + "XXXII CIII CV CII CXVI CV CX CIII XXXII CXVI CXIV XCVII CV CX XLVI XXXII LXXXIV CIV XCVII CX CVII XXXII CXXI CXI CXVII XXXIII"));
-        }
-        
+        }        
 }
